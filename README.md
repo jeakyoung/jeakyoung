@@ -30,11 +30,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?t&logoColor=white)
-### 🌐 프론트엔드 — 개인 프로젝트
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?t&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### 🗄 데이터베이스
@@ -49,8 +44,8 @@
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🧠 AI / 데이터 (개인 프로젝트)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-
-![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddin&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&cacheSeconds=86400)
+![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white&cacheSeconds=86400)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### ⚙ 인프라 / 배포 / 메시징
